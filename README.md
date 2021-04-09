@@ -1,5 +1,5 @@
 # Pandas
-Data wrangling with Pandas library
+Data wrangling with Pandas library to tackle and clean up any structured data set
 
 1. Selecting and renaming
 2. Filtering the dataset
